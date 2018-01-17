@@ -1,4 +1,3 @@
 this is in a.txt.
 abc
 123
-...
