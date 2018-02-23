@@ -1,4 +1,2 @@
 this is b.txt
 def
-...
-..
